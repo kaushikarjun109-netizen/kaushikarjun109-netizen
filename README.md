@@ -1,13 +1,8 @@
-## Hi there I'm Arjun Kaushik
+# 👋 Hi, I'm Arjun Kaushik
 
-<!--
-**kaushikarjun109-netizen/kaushikarjun109-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI & Robotics Enthusiast  
+🎓 Pre-final year student at SRM Institute  
 
-Here are some ideas to get you started:
-
-
-# 💫 About Me:
-- 🔭 I’m currently a pre-final year student at SRM Institute of Science and Technology.<br>- 📫 How to reach me: kaushikarjun109@gmail.com
 
 
 ## 🌐 Socials:
