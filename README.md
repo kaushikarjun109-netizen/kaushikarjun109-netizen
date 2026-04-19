@@ -1,4 +1,9 @@
-# 👋 Hi, I'm Arjun Kaushik
+# 👋 Hey!, What's up?
+I am Arjun Kaushik, a Computer Science student currently seeking internship opportunities as a Data Analyst.
+
+I work primarily with Python, using libraries such as NumPy for numerical computing and Pandas for data analysis, data cleaning, and exploratory data analysis. My work involves transforming raw datasets, building data processing pipelines, performing statistical analysis, and extracting insights from data.
+
+I am particularly interested in Data Science and Machine Learning and aim to expand my skills in these areas by working on real-world data problems and contributing to data-driven decision making.
 
 🚀 AI & Robotics Enthusiast  
 🎓 Pre-final year student at SRM Institute  
